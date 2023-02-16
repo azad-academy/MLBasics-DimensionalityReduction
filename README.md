@@ -1,5 +1,5 @@
 # Dimensionality Reduction Methods
-## PCA, t-SNE and Manifold Learning Methods
+## PCA, t-SNE and Manifold Learning
 
 <img src=cover.png width=600> 
 <br/>
